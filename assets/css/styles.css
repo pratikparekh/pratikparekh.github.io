@@ -198,7 +198,8 @@ a {
   left: 0; }
 
 .section-title {
-  text-align: center; }
+  text-align: center; 
+  }
   .section-title h3 {
     font-size: 30px;
     line-height: 40px;
@@ -532,6 +533,16 @@ ul {
 .home-2-img {
   background-image: url(../images/scenic.jpg); }
   
+  .home-3-img {
+  background-image: url(../images/about1.jpeg); }
+  
+  .home-5-img {
+  background-image: url(../images/pub1.jpg); }
+  
+  
+  .home-6-img {
+  background-image: url(../images/pub1.jpg); }
+  
  .edu-1-img {
   background-image: url(../images/UNCC_Building4.jpg);
   max-width : 100%;
@@ -541,7 +552,16 @@ ul {
   background-image: url(../images/world.jpg); }
 
 .featured-img-two {
-  background-image: url(../images/extra-feature-bg.jpg); }
+  background-image: url(../images/edu6.jpg); }
+  
+ .featured-img-work {
+  background-image: url(../images/work1.jpg); }
+  
+  .featured-img-project{
+  background-image: url(../images/project1.jpg); }
+  
+  .featured-img-train{
+  background-image: url(../images/train2.jpeg); }
 
 .map-image {
   background-image: url(../images/map-color-overlay.png); }
@@ -2220,10 +2240,10 @@ body {
  *
  * ------------------------------------------------------------------- 
  */
-#resume {
-	padding-top: 12rem;
-	padding-bottom: 12rem;
-}
+/*#resume {
+	padding-top: 40px;
+	/*padding-bottom: 12rem;*/
+}*/
 
 #resume .resume-header {
 	text-align: center;
