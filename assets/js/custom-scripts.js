@@ -382,7 +382,7 @@
 
 		  $(function() {
 			typed.typed({
-			  strings: ["Data Enthusiast.","Data Engineer.","Data Scientist."],
+			  strings: ["Software Developer.","Software Engineer.","Data Enthusiast.","Data Engineer.","Data Scientist."],
 			  typeSpeed: 100,
 			  loop: true,
 			});
